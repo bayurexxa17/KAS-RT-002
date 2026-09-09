@@ -166,11 +166,10 @@ export default function AppShell({ children }: { children: ReactNode }) {
 
           <div className="m-3 rounded-2xl bg-indigo-50/70 p-4">
             <p className="text-xs font-extrabold text-indigo-600">
-              Website Sedang Dalam Tahap Persiapan
+              Segera hadir — Website Resmi Warga Blok Mawar RT 002 RW 014.
             </p>
             <p className="mt-1 text-[11px] font-medium text-slate-500 leading-relaxed">
               Website Blok Mawar RT 002 RW 014 Ciptaland saat ini masih dalam tahap trial & error untuk memastikan seluruh fitur, informasi, dan tampilan berjalan dengan baik sebelum resmi diluncurkan.
-              Segera hadir — Website Resmi Warga Blok Mawar RT 002 RW 014.
             </p>
           </div>
         </aside>
