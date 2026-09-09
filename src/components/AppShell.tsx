@@ -128,7 +128,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
             )}
             <div className="min-w-0">
               <p className="text-[13px] font-extrabold text-slate-800 leading-snug">
-                {branding?.namaRt || "Blok Mawar RT 002 RW 014"}
+                {branding?.namaRt || "Blok Mawar RT 002"}
               </p>
               <p className="truncate text-[9px] font-bold tracking-widest text-slate-400 uppercase">
                 {branding?.namaPerumahan || "Perumahan Ciptaland"}
