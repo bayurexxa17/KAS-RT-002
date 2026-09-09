@@ -172,7 +172,7 @@ export default function LoginPage() {
           </Link>
         </p>
         <p className="mt-3 text-center text-[10px] font-semibold text-slate-300">
-          Demo admin: username <b>admin</b> · password <b>admin123</b>
+          Hubungi pengurus <b>RT 002 Blok Mawar</b> · untuk <b>bantuan sistem.</b>
         </p>
       </div>
     </div>
